@@ -1,0 +1,28 @@
+.column1 {
+  float: left;
+  width: 25%;
+  height: 400px;
+}
+
+.column2 {
+  float: left;
+  width: 50%;
+  background-color: red;
+  height: 400px;
+}
+
+.column3 {
+  float: left;
+  width: 25%;
+  height: 400px;
+}
+
+.column {
+  float: left;
+  width: 33%;
+}
+
+.row {
+  display: table;
+  float: left;
+}
